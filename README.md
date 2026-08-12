@@ -32,21 +32,3 @@ LLM
  ↓
 Answer + Sources
 
-
-## Technologies
-
-- Python
-- LangChain
-- FAISS / ChromaDB
-- Embedding Model
-- LLM
-- Streamlit
-
-## Use Cases
-
-- Research Paper Q&A
-- Paper Summarization
-- Research Gap Identification
-- Methodology Comparison
-- Dataset Analysis
-- Literature Review
