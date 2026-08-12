@@ -99,7 +99,8 @@ else:
 
     for q, a, sources in st.session_state.history:
         st.markdown(f"**Q: {q}**")
-        st.markdown(f'<div class="answer-box">{a}</div>', unsafe_allow_html=True)
+        with st.container(border=True):
+            st.markdown(a)
 
         with st.expander("📚 Sources used"):
             for i, doc in enumerate(sources):

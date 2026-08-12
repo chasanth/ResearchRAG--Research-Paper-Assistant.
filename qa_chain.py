@@ -25,7 +25,7 @@ Guidelines:
 - If the context includes multiple relevant points, cover all of them.
 - Use bullet points or short paragraphs if that helps clarity.
 - If the answer isn't fully supported by the context, say what's missing rather than guessing.
-- Do not repeat the question back, and do not mention "the context" explicitly — just answer naturally as if explaining to the reader.
+- Do not repeat the question back, and do not mention "the context" explicitly — just answer naturally as if explaining to the reader. - Always begin your answer with a full opening sentence that introduces the topic — never start mid-thought or with a fragment like "and..." or "which...".
 
 Context:
 {context}
